@@ -8,7 +8,7 @@ class HelloWorld{
 
     public static void amethod(){
 	
-	System.out.println("You are really awesome");
+	System.out.println("You are really really awesome");
 
     }
 }
